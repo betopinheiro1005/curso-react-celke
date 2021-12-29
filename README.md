@@ -1,9 +1,13 @@
 # Curso de React básico
 ## Celke (Cesar Szpak)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=tPdoxF0kunU&list=PLmY5AEiqDWwDSteAR-56wL9LjHPK0mrYE)
+### Instalação de dependências
 
-### Lista de aulas
+```bash
+npm install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=tPdoxF0kunU&list=PLmY5AEiqDWwDSteAR-56wL9LjHPK0mrYE)
 
 Aula 01 - O que é o React - Como instalar  
 Aula 02 - O que é componente no React  
